@@ -1,13 +1,13 @@
 @extends('layout')
 
 @section('title')
-    Index
+    About
 @endsection
 
 @section('content')
-    It is our index page
+    It is our about page
 @endsection
 
 @section('footer')
-    Index footer
+    About footer
 @endsection

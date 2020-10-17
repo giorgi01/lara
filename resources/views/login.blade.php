@@ -1,11 +1,11 @@
 @extends('layout')
 
 @section('title')
-    Index
+    Login
 @endsection
 
 @section('content')
-    It is our index page
+    Please sign into system
 @endsection
 
 @section('footer')
